@@ -1,4 +1,5 @@
-oxid-capistrano
-===============
+# Capistrano::OXID
 
-Gem for deploying OXID projects with Capistrano v3.*
+OXID eShop specific tasks for Capistrano v3
+
+Currently Work in progress
