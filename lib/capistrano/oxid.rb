@@ -1,4 +1,4 @@
-# require "capistrano/file-permissions"
+require 'capistrano/file-permissions'
 
 namespace :load do
   task :defaults do
