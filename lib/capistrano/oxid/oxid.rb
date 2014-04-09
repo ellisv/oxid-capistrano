@@ -1,0 +1,1 @@
+load File.expand_path('../../tasks/oxid.rake', __FILE__)
