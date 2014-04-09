@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name          = 'oxid-capistrano'
-  gem.version       = '1.0.0'
+  gem.version       = '1.0.1'
   gem.authors       = ['OXID Professional services']
   gem.email         = ['info@oxid-esales.com']
   gem.description   = %q{OXID eShop specific Capistrano tasks}
